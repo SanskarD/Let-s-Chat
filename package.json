@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon backend/server.js",
     "install-server": "npm install",
-    "start-server": "cd backend && node app.js"
+    "start-server": "cd backend && node server.js"
   },
   "author": "SanskarD",
   "license": "ISC",
