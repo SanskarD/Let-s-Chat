@@ -1,0 +1,16 @@
+.message{
+    border-radius: 20px;
+    padding: 5px 15px;
+    max-width: 75%;
+    margin-bottom: 5px;
+}
+
+
+.sameSender{
+    background-color: #BEE3F8;
+    margin-left:auto;
+}
+
+.differentSender{
+    background-color: #B9F5D0;
+}
