@@ -65,7 +65,7 @@ const Login = () => {
       toast({
         title: "Error Occured!",
         description:err.message,
-        status: "danger",
+        status: "error",
         duration: 5000,
         isClosable: true,
         position: "bottom",
